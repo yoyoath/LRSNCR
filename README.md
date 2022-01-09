@@ -1,4 +1,5 @@
 # LRSNCR
-Low-Rank and Sparse Matrix Decomposition With Non-convex Regularized for Hyperspectral Anomaly Detection
+Hyperspectral Anomaly Detection based on Improved Robust
+Principal Component Analysis with Non-convex Regularized
 _WEI YAO
 
